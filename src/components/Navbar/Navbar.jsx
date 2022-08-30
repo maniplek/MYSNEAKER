@@ -2,7 +2,7 @@ import React from "react";
 import { AppBar, Toolbar, IconButton, Typography, Badge } from "@mui/material";
 import { ShoppingCart } from "@material-ui/icons";
 
-import logo from "../../assets/djtable.jpg";
+//import logo from "../../assets/djtable.jpg";
 import useStyles from "./styles";
 
 const Navbar = ({totalItems}) => {
